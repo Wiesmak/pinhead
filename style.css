@@ -1,0 +1,44 @@
+.box {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+}
+
+.player {
+    height: 100px;
+    width: 50px;
+    background-color: aquamarine;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+}
+
+.playerArea {
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    background-color: transparent;
+}
+
+.cornflowerblue {
+    background-color: cornflowerblue;
+}
+
+.coral {
+    background-color: coral;
+}
+
+.violet {
+    background-color: violet;
+}
+
+#points {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: darkorange;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+}
